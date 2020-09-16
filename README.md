@@ -51,11 +51,6 @@ Pelo seu terminal, escolha um local para o projeto e rode os comandos:
 
 ```
 
-Obs: utilize o conteúdo do arquivo <a href="foodfy.sql">foodfy.sql</a> para a criação do banco de dados. Após a criação do banco de dados, crie dados fakes para testar a aplicação com o comando no terminal estando na pasta raiz do projeto:
-```bash
-  $ node seed.js
-```
-
 ## :bust_in_silhouette: Autor:
 Luiz Eduardo Campos da Silva</br>
 LinkedIn: <a href="https://www.linkedin.com/in/luiz-campos">@luiz-campos</a></br>
